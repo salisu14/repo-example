@@ -11,5 +11,7 @@
 - Use git remote -v. What do you observe?
 
 ### some git commands
-** git status
-** git add
+* git status
+* git add
+* git commit -m "msg"
+* git push -u origin main
