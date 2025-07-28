@@ -1,0 +1,20 @@
+Mustibrah
+primary
+secondary
+islamiyya
+college
+
+-----------------
+Favorite Hobbies
+Reading
+Writing
+Swimming
+Sleeping
+Coding
+
+----------------
+My Bio
+Name: myexcellent name
+Gender: Not known
+DOB: unknown
+City: not yet born
