@@ -9,3 +9,7 @@
 - Add a file in the cloned repo, commit, and push.
 - Pull the changes into your original repo.
 - Use git remote -v. What do you observe?
+
+### some git commands
+** git status
+** git add
